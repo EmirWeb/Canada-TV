@@ -13,7 +13,7 @@ public class VideoActivity extends BasicActivity {
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
-		super.onCreate(savedInstanceState);
+		super.onCreate(savedInstanceState);	
 		setContentView(R.layout.video_activity);
 
 		VideoView video = (VideoView) findViewById(R.id.video);
