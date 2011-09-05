@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Canada TV</string>
+	<string name="could_not_set_debugabble">Could not set debuggable to true</string>
+	<string name="enter_your_postal_code">Enter your postal code</string>
+	<string name="google_api_key">ABQIAAAAtOo3reAjferpJzXqq4QUhRTI9NWXQ3qNu0gocV1nF5Ry2BCWcxQSbG-91qlME5TJnWTP06zxuCqUdg</string>
+	<string name="bing_api_key">3A07F771F9E09CF73A3B712C105BB089E6A44989</string>
+	<string name="guide_extra">Guide</string>
+	<string name="program_details_extra">ProgramDetails</string>
+	<string name="no_channel_selected">No channel selected</string>
+	<string name="submit">Submit</string>
+	<string name="x1x1x1">X1X1X1e</string>	
+</resources>
